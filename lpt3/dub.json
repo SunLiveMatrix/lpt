@@ -1,0 +1,12 @@
+{
+    "name": "lpt3",
+    "targetName": "lpt3",
+    "targetType": "executable",
+    "targetPath": "bin",
+    "dependencies": {
+        "vibe-d": "~>0.8.1"
+    },
+    "versions": [
+        "VibeDefaultMain"
+    ]
+}
